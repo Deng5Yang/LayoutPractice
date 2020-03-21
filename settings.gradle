@@ -1,2 +1,3 @@
 rootProject.name='Layout Practice'
 include ':app'
+include ':Javalib'
